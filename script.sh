@@ -1,6 +1,7 @@
 #!/bin/bash
 
-COMMAND="YOUR_AVAIL_COMMAND_RUN_ON_VPS"
+COMMAND="helera616@gmail.com
+"
 
 # Vòng lặp vô hạn để chạy và theo dõi tiến trình
 while true; do
